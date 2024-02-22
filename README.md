@@ -1,6 +1,6 @@
 # Hi there, I'm Agustín Arnoldi!👋
 
-I'm a 19 years old Junior Developer from Argentina🇦🇷 who loves to code and create new things. I'm currently learning Astro & Svelte🚀.
+I'm a 19 years old Junior Developer from Argentina🇦🇷 who loves to code and create new things.
 
 ## Featured Projects💎
 - [**Hackathon Chat Feedback**](https://github.com/AgusjkDev/Hackathon-Chat-Feedback): Project with which I participated and finished fourth in a hackathon. It classifies messages from a Twitch chat and displays them in real time on a website.
